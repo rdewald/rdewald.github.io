@@ -1,2 +1,3 @@
 # rdewald.github.io
-Git Pages
+
+[Git some pages, dude.](https://rdewald.github.io/)

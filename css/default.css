@@ -1,3 +1,15 @@
 body {
   color: black;
 }
+.banner
+{
+	text-align: right;
+	background-color: #ffffff;
+}
+
+.bannerblurb
+{
+	text-align: right;
+	Font-style: italic;
+	color: #666666;
+}
